@@ -1,0 +1,24 @@
+.header{
+    background-color: #00BFFF;
+    display:block;
+    padding: 0.5%;
+    text-align: center;
+    color: white;
+    margin-top:1%;
+    
+}
+
+.myimage img{
+    margin-top: 4%;
+    margin-left: 20%;
+    width: 8vw;
+    height: 10vh;
+}
+
+p{
+    margin-left: 25%;
+}
+
+.container{
+    width: 100%;
+}
